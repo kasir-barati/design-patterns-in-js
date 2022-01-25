@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nodejsdeveloperskh/design-patterns-in-js.git"
+        "url": "git+https://github.com/kasir-barati/design-patterns-in-js.git"
     },
     "keywords": [
         "design-patterns",
@@ -20,12 +20,12 @@
         "javascript",
         "typescript"
     ],
-    "author": "nodejsdeveloperskh",
+    "author": "kasir-barati",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/nodejsdeveloperskh/design-patterns-in-js/issues"
+        "url": "https://github.com/kasir-barati/design-patterns-in-js/issues"
     },
-    "homepage": "https://github.com/nodejsdeveloperskh/design-patterns-in-js#readme",
+    "homepage": "https://github.com/kasir-barati/design-patterns-in-js#readme",
     "devDependencies": {
         "@babel/core": "^7.16.0",
         "@babel/preset-env": "^7.16.4",
